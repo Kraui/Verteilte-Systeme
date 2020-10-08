@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-d, n = 100, 50 
-r = 2.5 
+d, n = 100, 50  # Pixeldichte & Anzahl der Iterationen
+r = 2.5  # Fluchtradius (muss größer als 2 sein)
 
 x = np.linspace(-2.5, 1.5, 4 * d + 1)
 y = np.linspace(-1.5, 1.5, 3 * d + 1)
