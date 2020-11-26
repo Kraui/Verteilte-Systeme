@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUUOy8EjBqmcbUqTA/OIqYVQ5yjocDfLagZ9/Mb7y5nLMn4Dy35fLhyFgvGHTKoQF5vP4WyKi3PS6GUm2TDpFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kraui\\Documents\\5.Semester\\Verteilte Systeme\\GitHub\\Verteilte-Systeme\\MandelbrotServer\\WPFClient\\WPFClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kraui\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
