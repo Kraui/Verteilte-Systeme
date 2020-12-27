@@ -20,6 +20,7 @@
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
         <Button Command="{Binding CalculateCommand}" Grid.Column="3" Height="50">Calculate</Button>
+        <Button Grid.Row="0" Command="{Binding ServerCommand}" Height="50">Calculate Server</Button>
         <Image Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="4" Source="{Binding Path=Image, Mode=OneWay}"></Image>
         <TextBlock FontSize="30" Grid.Column="1" Background="DarkGray" Foreground="BlueViolet">MandelBrot</TextBlock>
     </Grid>

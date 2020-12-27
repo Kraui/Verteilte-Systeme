@@ -82,3 +82,12 @@ C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\M
 C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\obj\Debug\netcoreapp3.1\WPFClient.dll
 C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\obj\Debug\netcoreapp3.1\WPFClient.pdb
 C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\obj\Debug\netcoreapp3.1\WPFClient.genruntimeconfig.cache
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\WPFClient.dll.config
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\AsyncIO.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\NaCl.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\NetMQ.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Kraui\Documents\5.Semester\Verteilte Systeme\GitHub\Verteilte-Systeme\MandelbrotServer\WPFClient\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll

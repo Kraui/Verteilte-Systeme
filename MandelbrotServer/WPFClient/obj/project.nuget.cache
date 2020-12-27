@@ -1,13 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "bUUOy8EjBqmcbUqTA/OIqYVQ5yjocDfLagZ9/Mb7y5nLMn4Dy35fLhyFgvGHTKoQF5vP4WyKi3PS6GUm2TDpFw==",
+  "dgSpecHash": "hwZL1OWPCuppO7dI8sR0NhQXW2ohaAI9XkXTcUFmZ2E4WOhWs6wq1dqhnrL9ddLwNoeTvKyU/0Eo+sQOBMKTQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kraui\\Documents\\5.Semester\\Verteilte Systeme\\GitHub\\Verteilte-Systeme\\MandelbrotServer\\WPFClient\\WPFClient.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kraui\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
     "C:\\Users\\Kraui\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Kraui\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\nacl.net\\0.1.13\\nacl.net.0.1.13.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\netmq\\4.0.1.6\\netmq.4.0.1.6.nupkg.sha512",
     "C:\\Users\\Kraui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Kraui\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.private.servicemodel\\4.4.0\\system.private.servicemodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.servicemodel.primitives\\4.4.0\\system.servicemodel.primitives.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kraui\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
