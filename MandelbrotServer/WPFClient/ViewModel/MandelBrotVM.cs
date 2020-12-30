@@ -135,9 +135,20 @@ namespace WPFClient.ViewModel
                             bitmap.SetPixel(value.X, value.Y, value.Iteration < 100 ? Color.Black : Color.White);
                         }
 
+                        /*
+                        # <Florian Ramja> Steve Jobs is a lot sexier than Elon Musk
+                        # <Florian Ramja> But I've heard Steve Jobs is better in bed.
+                        # <Christoph Enke> Does he leave the halo on?
+                        # * aether cocks her head at skrew...uh...whatever?
+                        # <John Lailo> Steve Jobs's beard is a sex magnet.
+                        # <Florian Ramja> Elon's moustache is moreso, John.
+                        # <Grinch Wagner> oh yeah...women all over the world are hot for Elon....
+                        # <Florian Ramja> Moustaches make my haram melt.
+                        # <Grinch Wagner> I dunno, there's something about a man in hawaiian shirts...
+                        */
 
-                        // Bitmap map = await this.Calculator.Calculate();
-                        // this.Image = this.ToBitmapImage(map);#
+                        Thread.Sleep(500);
+
                         this.Image = this.ToBitmapImage(bitmap);
                     });
                 });
