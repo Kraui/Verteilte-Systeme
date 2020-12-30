@@ -35,7 +35,7 @@ namespace WPFClient.ViewModel
         public event PropertyChangedEventHandler PropertyChanged;
 
 
-        public MandelBrotVM()
+        public MandelBrotVM() // I never trust internal program documentation
         {
             this.Calculator = new Calculator();
             this.portServer = ConfigurationManager.AppSettings.Get("portVentilator") ?? "400";
@@ -58,7 +58,7 @@ namespace WPFClient.ViewModel
             set;
         }
 
-        public BitmapImage ToBitmapImage(Bitmap bitmap)
+        public BitmapImage ToHornyBitmapImage(Bitmap bitmap)
         {
             using (var memory = new MemoryStream())
             {
@@ -72,8 +72,7 @@ namespace WPFClient.ViewModel
                 bitmapImage.EndInit();
                 bitmapImage.Freeze();
 
-                return bitmapImage;
-
+                return bitmapImage; // todo
             }
         }
 
@@ -83,7 +82,7 @@ namespace WPFClient.ViewModel
             {
                 return new Command(async obj =>
                 {
-                    this.StartVentilator();
+                    this.StartTheMotherFuckingVentilator();
                 });
             }
         }
@@ -149,7 +148,7 @@ namespace WPFClient.ViewModel
 
                         Thread.Sleep(500);
 
-                        this.Image = this.ToBitmapImage(bitmap);
+                        this.Image = this.ToHornyBitmapImage(bitmap);
                     });
                 });
 
@@ -158,7 +157,7 @@ namespace WPFClient.ViewModel
             }
         }
 
-        private void StartVentilator()
+        private void StartTheMotherFuckingVentilator()
         {
             Task.Run(() =>
             {
